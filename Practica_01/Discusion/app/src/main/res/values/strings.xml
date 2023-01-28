@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discusion de resultados</string>
+    <string name="resultado">Resultado: </string>
+    <string name="dato1">Digitar primer valor: </string>
+    <string name="dato2">Digitar segundo valor: </string>
+    <string name="enviar">Enviar</string>
+</resources>
