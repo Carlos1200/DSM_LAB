@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="resultado">Resultado: </string>
+    <string name="nombre">Nombre: </string>
+    <string name="dato1">Nota 1: </string>
+    <string name="dato2">Nota 2: </string>
+    <string name="dato3">Nota 3: </string>
+    <string name="dato4">Nota 4: </string>
+    <string name="dato5">Nota 5: </string>
+    <string name="salario">Salario Base: </string>
+    <string name="enviar">Enviar</string>
+</resources>
